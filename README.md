@@ -1,3 +1,9 @@
+<table align="center">
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/ShuaiGuo16/Matplotllib_Animation_Tutorial/blob/master/Tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+  </td>
+</table>
+
 ## Matplotlib Animation
 
 This is a hands-on tutorial of making animations using `Matplotlib` and `Celluloid`. The target animation we will create displays various projectile motion trajectories and updates the associated histogram of the projectile shotting range. A companion blog can be found here:
