@@ -2,9 +2,9 @@
 
 ## Matplotlib Animation
 
-This is a hands-on tutorial of making animations using `Matplotlib` and `Celluloid`. The target animation we will create displays various projectile motion trajectories and updates the associated histogram of the projectile shotting range. A companion blog can be found here:
+This is a hands-on tutorial for making animations using `Matplotlib` and `Celluloid`. The target animation we will create displays various projectile motion trajectories and updates the associated histogram of the projectile shotting range. A companion blog can be found here:
 
-[Uncertainty Visualization Made Easy With Hypothetical Outcome Plots](https://towardsdatascience.com/uncertainty-visualization-made-easy-with-hypothetical-outcome-plots-89558574d069)
+A Hands-on Tutorial For Creating Matplotlib Animation
 
 
 
