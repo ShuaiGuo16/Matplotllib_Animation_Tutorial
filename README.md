@@ -1,8 +1,4 @@
-<table align="center">
-  <td>
-    <a target="_blank" href="https://colab.research.google.com/github/ShuaiGuo16/Matplotllib_Animation_Tutorial/blob/master/Tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
-  </td>
-</table>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ShuaiGuo16/Matplotllib_Animation_Tutorial/blob/master/Tutorial.ipynb)
 
 ## Matplotlib Animation
 
